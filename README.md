@@ -17,7 +17,7 @@
 <hr>
 
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=H-Lapa&show_icons=true&theme=algolia" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=H-Lapa&show_icons=true&theme=algolia"/>
 
 <img align="left" width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Lapa&layout=compact&theme=algolia" />
 
