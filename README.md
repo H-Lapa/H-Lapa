@@ -7,7 +7,7 @@
 ### About me!
 
 - 🎓 Current Student at Queen Mary, University Of London 
-- 📖 I’m pursuing a Bachelor's degree in Computer Science.
+- 📖 I’m pursuing a Masters degree in Computer Science.
 - 📫 Email me at [HugoLapa888@gmail.com](mailto:hugolapa888@gmail.com).
 - Message my [Linkedin](https://www.linkedin.com/in/hugo-lapa) to get more info.
 
