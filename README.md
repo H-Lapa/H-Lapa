@@ -6,14 +6,13 @@
 
 ### About me!
 
-- 🎓 Current Student at Queen Mary, University Of London 
-- 📖 I’m pursuing a Masters degree in Computer Science.
-- 📫 Email me at [HugoLapa888@gmail.com](mailto:hugolapa888@gmail.com).
-- Message my [Linkedin](https://www.linkedin.com/in/hugo-lapa) to get more info.
+- 🏢 Platform Engineer at GO Reply, a Google Cloud consultancy
+- ☁️ Designing GCP infrastructure and building CI/CD pipelines for enterprise clients
+- 🎓 First-Class Honours in Computer Science from Queen Mary, University of London
+- 📜 GCP certified: Professional Cloud Architect, DevOps Engineer, Database Engineer
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hugo-lapa)
 
-<br>
-<br>
-<br>
+
 <hr>
 
 
